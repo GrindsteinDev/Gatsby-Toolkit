@@ -32,6 +32,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, gallery
   
     <section className="section">
     <div className="container">
+        <h2>Current Projects</h2>
       <Accordion items={accordion} />
     </div>
   </section>
