@@ -35,6 +35,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, accordi
         <Gallery images={gallery} />
       </div>
     </section>
+  
   </main>
 )
 
