@@ -4,7 +4,17 @@ slug: ""
 title: NomadArwut
 featuredImage: https://ucarecdn.com/18cc53ce-ddcb-4155-a513-01f1be5b53d6/-/preview/-/grayscale/
 subtitle: Photographer | Bulldog Specialist
-accordion: []
+accordion:
+  - title: KandyLand BullDogs
+    content: KandyLand BullDogsKandyLand BullDogsKandyLand BullDogsKandyLand
+      BullDogsKandyLand BullDogsKandyLand BullDogs
+  - title: DR Graphics
+    content: DR GraphicsDR GraphicsDR GraphicsDR GraphicsDR GraphicsDR GraphicsDR
+      GraphicsDR GraphicsDR GraphicsDR GraphicsDR GraphicsDR GraphicsDR Graphics
+  - title: NomadArwut Kennels
+    content: NomadArwut KennelsNomadArwut KennelsNomadArwut KennelsNomadArwut
+      KennelsNomadArwut KennelsNomadArwut KennelsNomadArwut KennelsNomadArwut
+      KennelsNomadArwut Kennels
 gallery:
   - image: https://ucarecdn.com/122bb100-a036-4d0b-8ea2-267357d3ba29/
     alt: Nick Fury
