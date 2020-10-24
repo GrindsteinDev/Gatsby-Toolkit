@@ -68,7 +68,6 @@ export class Navigation extends Component {
             aria-label="Navigation"
             role="button"
           >
-            <Logo />
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
