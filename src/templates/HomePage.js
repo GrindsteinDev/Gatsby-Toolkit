@@ -5,9 +5,10 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import Accordion from '../components/Accordion'
+import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, accordion }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, accordion, gallery }) => (
   <main className="Home">
     <PageHeader
       large
@@ -28,6 +29,12 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, accordi
       </div>
     </section>
   
+      <section className="section">
+      <div className="container">
+        <h2>The BullDog Gallery</h2>
+        <Gallery images={gallery} />
+      </div>
+    </section>
   </main>
 )
 
@@ -48,6 +55,7 @@ export const pageQuery = graphql`
   query HomePage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
+      ...Gallery
       html
       frontmatter {
         title
