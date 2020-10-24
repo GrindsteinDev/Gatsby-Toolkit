@@ -4,6 +4,13 @@ slug: ""
 title: NomadArwut
 featuredImage: https://ucarecdn.com/18cc53ce-ddcb-4155-a513-01f1be5b53d6/-/preview/-/grayscale/
 subtitle: Photographer | Bulldog Specialist
+accordion:
+  - title: KandyLand Bulldogs
+    content: KandyLand Bulldogs
+  - title: NomadArwut Kennels
+    content: NomadArwut Kennels
+  - title: DRGraphics
+    content: DRGraphics
 meta:
   description: This is a meta description.
   title: NomadArwut
