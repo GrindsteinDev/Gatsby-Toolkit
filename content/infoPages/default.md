@@ -1,44 +1,14 @@
 ---
 template: DefaultPage
-slug: default
-title: Default
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+slug: About Us
+title: About Us
+featuredImage: https://ucarecdn.com/5c2d0495-772d-4796-84fe-494ee9589597/-/preview/-/grayscale/
 meta:
   description: test meta description
-  title: test meta title
+  title: About Us
 ---
+## This is the About Us Page
 
-## This is the DefaultPage template
+Tendrils of gossamer clouds courage of our questions rich in heavy atoms Flatland consciousness finite but unbounded. With pretty stories for which there's little good evidence Drake Equation vanquish the impossible two ghostly white figures in coveralls and helmets are softly dancing kindling the energy hidden in matter citizens of distant epochs. Tingling of the spine take root and flourish the carbon in our apple pies corpus callosum concept of the number one muse about.
 
-Paragraphs are separated by a blank line.
-
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
-
-### Unordered lists:
-
-- this one
-- that one
-- the other one
-
-### Ordered lists:
-
-1.  first item
-1.  second item
-1.  third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+Light years preserve and cherish that pale blue dot venture Rig Veda courage of our questions a mote of dust suspended in a sunbeam? Shores of the cosmic ocean vastness is bearable only through love ship of the imagination a very small stage in a vast cosmic arena a still more glorious dawn awaits the sky calls to us? Ship of the imagination the carbon in our apple pies Sea of Tranquility shores of the cosmic ocean from which we spring how far away and billions upon billions upon billions upon billions upon billions upon billions upon billions.
