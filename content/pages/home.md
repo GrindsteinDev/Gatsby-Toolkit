@@ -11,6 +11,9 @@ accordion:
     content: NomadArwut Kennels
   - title: DRGraphics
     content: DRGraphics
+gallery:
+  - image: https://ucarecdn.com/122bb100-a036-4d0b-8ea2-267357d3ba29/
+    alt: Nick Fury
 meta:
   description: This is a meta description.
   title: NomadArwut
