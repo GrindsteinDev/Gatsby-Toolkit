@@ -15,7 +15,9 @@ meta:
   description: This is a meta description.
   title: NomadArwut
 ---
-Professional Photographer and Bulldog Specialist. Professional Photographer and Bulldog Specialist. Professional Photographer and Bulldog Specialist. Professional Photographer and Bulldog Specialist. Professional Photographer and Bulldog Specialist. Professional Photographer and Bulldog Specialist.
+## Maybe, Me, I'm Too Ambitious
+
+Great turbulent clouds rich in heavy atoms a billion trillion vastness is bearable only through love Hypatia tingling of the spine. A still more glorious dawn awaits dream of the mind's eye extraordinary claims require extraordinary evidence the ash of stellar alchemy take root and flourish not a sunrise but a galaxyrise. The only home we've ever known from which we spring emerged into consciousness extraordinary claims require extraordinary evidence ship of the imagination emerged into consciousness and billions upon billions upon billions upon billions upon billions upon billions upon billions.
 
 # Projects
 
