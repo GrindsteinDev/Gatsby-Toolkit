@@ -60,6 +60,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        template
         subtitle
         featuredImage
         accordion {
