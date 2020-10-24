@@ -51,13 +51,6 @@ export const ComponentsPageTemplate = ({
         {video && <source src={video} type="video/mp4" />}
       </BackgroundVideo>
     </section>
-
-    <section className="section">
-      <div className="container">
-        <Accordion items={accordion} />
-      </div>
-    </section>
-
   </main>
 )
 
