@@ -8,7 +8,7 @@ import Accordion from '../components/Accordion'
 import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, gallery }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, gallery, accordion }) => (
   <main className="Home">
     <PageHeader
       large
@@ -27,6 +27,12 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, gallery
     <div className="container">
       <h2>Our Work</h2>
       <Gallery images={gallery} />
+    </div>
+  </section>
+  
+    <section className="section">
+    <div className="container">
+      <Accordion items={accordion} />
     </div>
   </section>
   
@@ -57,6 +63,10 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
+        accordion {
+          title
+          content
+        }
       }
     }
   }
