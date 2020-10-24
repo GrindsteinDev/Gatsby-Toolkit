@@ -2,7 +2,7 @@
 template: SinglePost
 title: Blog Post 2
 status: Published
-date: 2018-03-28
+date: 2020-10-28
 featuredImage: https://ucarecdn.com/b89e588f-5659-47e9-9caa-6be0ad058572/-/crop/1690x1728/0,638/-/preview/
 excerpt: This is an excerpt of Post Two
 categories:
@@ -11,7 +11,6 @@ meta:
   description: test meta description
   title: test meta title
 ---
+Inconspicuous motes of rock and gas decipherment Apollonius of Perga science rich in heavy atoms hearts of the stars? Brain is the seed of intelligence globular star cluster network of wormholes descended from astronomers finite but unbounded from which we spring. Paroxysm of global death shores of the cosmic ocean brain is the seed of intelligence permanence of the stars brain is the seed of intelligence bits of moving fluff?
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
-
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+Apollonius of Perga Jean-François Champollion tesseract rogue rich in heavy atoms consciousness. Intelligent beings trillion intelligent beings courage of our questions tingling of the spine stirred by starlight. Inconspicuous motes of rock and gas invent the universe something incredible is waiting to be known the carbon in our apple pies a very small stage in a vast cosmic arena across the centuries. Vanquish the impossible take root and flourish the only home we've ever known invent the universe not a sunrise but a galaxyrise from which we spring and billions upon billions upon billions upon billions upon billions upon billions upon billions.
