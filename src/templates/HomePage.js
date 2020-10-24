@@ -31,7 +31,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, accordi
   
       <section className="section">
       <div className="container">
-        <h2>The BullDog Gallery</h2>
+        <h2>Our Work</h2>
         <Gallery images={gallery} />
       </div>
     </section>
